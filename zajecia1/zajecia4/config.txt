@@ -1,0 +1,5 @@
+thisconnect@notarch:~$ ip a | grep enp
+2: enp0s25: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    inet 192.168.0.121/24 brd 192.168.0.255 scope global dynamic noprefixroute enp0s25
+thisconnect@notarch:~$ 
+
